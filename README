@@ -1,0 +1,3 @@
+This is a repository for the workings of my python3 code to address the rosalind problems. 
+The code isn't designed for functionality and is likely not the most elegant solution but hopefully will help someone struggling to learn.
+For ipynb notebook files if not displaying correctly on github paste URL into https://nbviewer.jupyter.org/ and that should display correctly.
